@@ -1,14 +1,16 @@
 {
-  "files": {
-    "main.css": "/test/static/css/main.82b41b31.css",
-    "main.js": "/test/static/js/main.988b687b.js",
-    "static/media/SEGA.woff": "/test/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/test/index.html",
-    "main.82b41b31.css.map": "/test/static/css/main.82b41b31.css.map",
-    "main.988b687b.js.map": "/test/static/js/main.988b687b.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.82b41b31.css",
-    "static/js/main.988b687b.js"
-  ]
+  "main.css": "/robotest/static/css/main.d2997283.chunk.css",
+  "main.js": "/robotest/static/js/main.c1763b3d.chunk.js",
+  "main.js.map": "/robotest/static/js/main.c1763b3d.chunk.js.map",
+  "static/css/1.71d16788.chunk.css": "/robotest/static/css/1.71d16788.chunk.css",
+  "static/js/1.bd7747f8.chunk.js": "/robotest/static/js/1.bd7747f8.chunk.js",
+  "static/js/1.bd7747f8.chunk.js.map": "/robotest/static/js/1.bd7747f8.chunk.js.map",
+  "runtime~main.js": "/robotest/static/js/runtime~main.2c110a44.js",
+  "runtime~main.js.map": "/robotest/static/js/runtime~main.2c110a44.js.map",
+  "static/media/App.css": "/robotest/static/media/SEGA.12a3db8b.woff",
+  "static/css/main.d2997283.chunk.css.map": "/robotest/static/css/main.d2997283.chunk.css.map",
+  "static/css/1.71d16788.chunk.css.map": "/robotest/static/css/1.71d16788.chunk.css.map",
+  "index.html": "/robotest/index.html",
+  "precache-manifest.5641964fe15f0576129478cfeb4da88c.js": "/robotest/precache-manifest.5641964fe15f0576129478cfeb4da88c.js",
+  "service-worker.js": "/robotest/service-worker.js"
 }
